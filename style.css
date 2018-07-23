@@ -1,0 +1,7 @@
+.strike {
+    text-decoration-line: line-through;
+    opacity: .2;
+}
+.hoverover {
+    color: green;
+}
